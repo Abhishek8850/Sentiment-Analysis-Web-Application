@@ -1,0 +1,21 @@
+# ==============================================================================
+# Requirements for Aspect-Based and General Sentiment Analysis Web Application
+# Python Version: 3.10+ (Recommended: Python 3.10, 3.11, or 3.12)
+# ==============================================================================
+
+# Web Framework
+streamlit>=1.32.0,<1.40.0
+
+# Deep Learning & Transformers
+torch>=2.1.0,<2.4.0
+transformers>=4.38.0,<4.45.0
+
+# Data Manipulation & Numerical Ops
+pandas>=2.1.0,<2.3.0
+numpy>=1.24.0,<2.0.0
+scipy>=1.11.0,<1.14.0
+
+# Visualizations
+matplotlib>=3.8.0,<3.10.0
+seaborn>=0.13.0,<0.14.0
+wordcloud>=1.9.0,<2.0.0
